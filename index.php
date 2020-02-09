@@ -24,10 +24,21 @@
     <link rel="stylesheet" href="css/animate.css">
     <!-- Theme CSS -->
     <link href="css/style.css" rel="stylesheet">
+     <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Plugin JavaScript -->
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+<!--    Parallex scripts-->
+    <script src="js/parallax.js"></script>
+    <!-- Theme JavaScript -->
+    <script src="js/script.js"></script>
     
 </head>
 
 <body id="page-top" class="index">
+   
 
     <!-- Navigation -->
     <nav id="mainNav" class="navbar navbar-default navbar-custom navbar-fixed-top">
@@ -311,24 +322,7 @@ FitSpots</a>
 
    
 
-    <!-- jQuery -->
-    <script src="vendor/jquery/jquery.min.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <!-- Plugin JavaScript -->
-    <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-
   
-
-<!--    Parallex scripts-->
-    <script src="js/parallax.js"></script>
-
-    
-    
-    <!-- Theme JavaScript -->
-    <script src="js/script.js"></script>
  
     
     
