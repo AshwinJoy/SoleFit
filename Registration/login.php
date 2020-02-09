@@ -46,7 +46,7 @@
                         <a href="#page-top"></a>
                     </li>
                     <li id="home">
-                        <a class="page-scroll" href="../index.php"><i class="fa fa-home" aria-hidden="true"></i>
+                        <a class="page-scroll" href="../Home/index.php"><i class="fa fa-home" aria-hidden="true"></i>
  Home</a>
                     </li>
                     <li>
